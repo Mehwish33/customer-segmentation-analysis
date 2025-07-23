@@ -4,7 +4,7 @@ Customer segmentation analysis for an e-commerce company using K-Means clusterin
 This data analytics project aims to perform customer segmentation analysis for an e-commerce company by analyzing customer behavior and purchase patterns. The goal is to group customers into distinct segments. This segmentation can inform targeted marketing strategies, improve customer satisfaction, and enhance overall business strategies.
 Key Concepts and Challenges:
 
-# Key Concepts and Challenges:
+## Key Concepts and Challenges:
 * **Data Collection**: Obtained a dataset containing customer information, purchase history, and relevant data.
  
 * **Data Exploration and Cleaning**: Explored the dataset, understood its structure, and handled any missing or inconsistent data.
@@ -15,7 +15,7 @@ Key Concepts and Challenges:
 
 * **Visualization**: Created visualizations (e.g., scatter plots, bar charts) to illustrate customer segments.
 
- # Technologies Used:
+ ## Technologies Used:
 * **Python**
 
 * **Pandas** (for data manipulation)
@@ -26,12 +26,14 @@ Key Concepts and Challenges:
 
 * **Seaborn** (for enhanced visualizations)
  
-# Learning Objectives Achieved:
+## Learning Objectives Achieved:
 
 * Practical experience with clustering algorithms.
 
 * Data cleaning and exploration skills.
 
 * Visualization techniques for conveying insights.
+## DataSet :
+
 
   
