@@ -26,15 +26,18 @@ Key Concepts and Challenges:
 
 * **Seaborn** (for enhanced visualizations)
  
-## Learning Objectives Achieved:
+## DataSourse: 
+
+https://github.com/Mehwish33/customer-segmentation-analysis/blob/main/customer_segmentation_data.csv
+ 
+ ## Learning Objectives Achieved:
 
 * Practical experience with clustering algorithms.
 
 * Data cleaning and exploration skills.
 
 * Visualization techniques for conveying insights.
-## DataSourse :
-https://github.com/Mehwish33/customer-segmentation-analysis/blob/main/customer_segmentation_data.csv
+
 
 
   
