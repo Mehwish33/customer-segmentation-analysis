@@ -33,7 +33,8 @@ Key Concepts and Challenges:
 * Data cleaning and exploration skills.
 
 * Visualization techniques for conveying insights.
-## DataSet :
+## DataSourse :
+https://github.com/Mehwish33/customer-segmentation-analysis/blob/main/customer_segmentation_data.csv
 
 
   
