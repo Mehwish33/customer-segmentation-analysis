@@ -16,9 +16,6 @@ Key Concepts and Challenges:
 * **Visualization**: Created visualizations (e.g., scatter plots, bar charts) to illustrate customer segments.
 
  # Technologies Used:
-
-
-
 * **Python**
 
 * **Pandas** (for data manipulation)
@@ -28,5 +25,13 @@ Key Concepts and Challenges:
 * **Matplotlib** (for visualizations)
 
 * **Seaborn** (for enhanced visualizations)
+ 
+# Learning Objectives Achieved:
+
+* Practical experience with clustering algorithms.
+
+* Data cleaning and exploration skills.
+
+* Visualization techniques for conveying insights.
 
   
